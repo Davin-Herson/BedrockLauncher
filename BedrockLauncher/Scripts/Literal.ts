@@ -20,3 +20,5 @@ f.stream("set", function(stream) {
 
 load.namespace(f);
 sys.get(ref.where());
+
+console.log(sys.status);
